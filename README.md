@@ -1,3 +1,11 @@
+
+![rizelogin](https://github.com/user-attachments/assets/0eedb3a2-3b6d-4ec5-97dc-eb78e65a7c01)
+![rizecashier](https://github.com/user-attachments/assets/c84f108f-17c7-49dd-b6b3-8b8abbcef04b)
+![rizetransaction](https://github.com/user-attachments/assets/213332fd-01a3-47cc-8c36-8e8d79b106ec)
+![invoice](https://github.com/user-attachments/assets/274084a1-c89d-4c33-898c-5e3bb17c6c8d)
+![income](https://github.com/user-attachments/assets/05d609e4-b361-497d-9731-a5e8437ec49d)
+
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
